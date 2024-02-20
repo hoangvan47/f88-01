@@ -429,3 +429,11 @@
     line-height: 1.5;
     color: #7B8087;
  }
+
+
+
+ .footer {
+    margin-top: 165px;
+    padding: 50px 0 58px;
+    background: #f5f5f5;
+ }
