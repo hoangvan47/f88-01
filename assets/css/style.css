@@ -437,3 +437,9 @@
     padding: 50px 0 58px;
     background: #f5f5f5;
  }
+ .heading-01 {
+    font-size: 5.4rem;
+    font-weight: 700;
+    line-height: 1.19;
+    color: #000339;
+ }
